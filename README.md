@@ -17,7 +17,7 @@
 - 🔹 **Programming:** Python (Pandas, NumPy), SQL  
 - 🔹 **Machine Learning:** Regression, Classification, Clustering  
 - 🔹 **Visualization:** Power BI, Tableau  
-- 🔹 **Databases:** MySQL, MariaDB  
+- 🔹 **Databases:** MySQl
 
 ---
 
