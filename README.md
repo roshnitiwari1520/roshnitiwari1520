@@ -2,7 +2,7 @@
 
 Data analyst and ML practitioner with hands-on experience in 
 predictive modeling, sentiment analysis, and business intelligence. 
-Currently pursuing MCA at Amity University (Semester 1 completed).
+Currently pursuing MCA at Amity University 
 
 ---
 
@@ -37,14 +37,6 @@ demand heatmaps using Matplotlib and Seaborn.
 **Tools:** Git, Jupyter Notebook, Excel  
 
 ---
-
-## Education
-
-MCA — A# Roshni Tiwari
-
-Data analyst and ML practitioner with hands-on experience in 
-predictive modeling, sentiment analysis, and business intelligence. 
-Currently pursuing MCA at Amity University .
 
 ---
 
