@@ -1,32 +1,98 @@
+# Roshni Tiwari
 
-# 👩‍💻 Hi, I'm Roshni Tiwari!  
-💡 **Aspiring Data Scientist** | 📊 **Python | SQL | Machine Learning** | 📈 **Power BI | Tableau**  
-
----
-
-## 🚀 About Me  
-- 🎯 Passionate about **Data Science & Analytics**  
-- 🔍 Currently learning **Machine Learning & SQL for Data Science**  
-- 📌 Working on **improving my problem-solving skills in Python & SQL**  
-- 💡 Interested in **collaborating on data-driven projects & open-source contributions**  
-- 🎯 Seeking opportunities in **Data Science, Analytics, and AI-based startups**  
+Data analyst and ML practitioner with hands-on experience in 
+predictive modeling, sentiment analysis, and business intelligence. 
+Currently pursuing MCA at Amity University (Semester 1 completed).
 
 ---
 
-## 📚 Tech Skills  
-- 🔹 **Programming:** Python (Pandas, NumPy), SQL  
-- 🔹 **Machine Learning:** Regression, Classification, Clustering  
-- 🔹 **Visualization:** Power BI, Tableau  
-- 🔹 **Databases:** MySQl
+## Projects
+
+**[Liver Disease Prediction Model](link-here)**
+ML model using Random Forest & Logistic Regression on patient 
+medical data. Achieved 85% accuracy. Built with Python, 
+Scikit-learn, Pandas.
+
+**[Amazon Customer Sentiment Analysis](link-here)**
+NLP-based sentiment classification on 100,000+ product reviews. 
+Identified top products by sentiment score using Python and 
+Scikit-learn.
+
+**[Sales Time Series Forecasting](link-here)**
+ARIMA model to forecast sales trends from historical data. 
+Validated with statistical evaluation metrics.
+
+**[Uber Trip Data Analysis](link-here)**
+EDA on Uber trip dataset — trip distribution, peak hours, 
+demand heatmaps using Matplotlib and Seaborn.
 
 ---
 
-## 📫 How to Reach Me  
-- 💼 linkedin: https://www.linkedin.com/in/roshni-tiwari-354309282/ 
-- 📧 Email: tiwariroshni620@gmailcom  
+## Skills
 
+**Languages:** Python, SQL, HTML/CSS (basic)  
+**Data:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**BI Tools:** Power BI, Tableau, Plotly  
+**Database:** MySQL  
+**Tools:** Git, Jupyter Notebook, Excel  
 
 ---
 
-⚡ **Fun Fact:** I love solving real-world problems with data and exploring new AI technologies! 😃  
+## Education
+
+MCA — A# Roshni Tiwari
+
+Data analyst and ML practitioner with hands-on experience in 
+predictive modeling, sentiment analysis, and business intelligence. 
+Currently pursuing MCA at Amity University .
+
+---
+
+## Projects
+
+**[Liver Disease Prediction Model](link-here)**
+ML model using Random Forest & Logistic Regression on patient 
+medical data. Achieved 85% accuracy. Built with Python, 
+Scikit-learn, Pandas.
+
+**[Amazon Customer Sentiment Analysis](link-here)**
+NLP-based sentiment classification on 100,000+ product reviews. 
+Identified top products by sentiment score using Python and 
+Scikit-learn.
+
+**[Sales Time Series Forecasting](link-here)**
+ARIMA model to forecast sales trends from historical data. 
+Validated with statistical evaluation metrics.
+
+**[Uber Trip Data Analysis](link-here)**
+EDA on Uber trip dataset — trip distribution, peak hours, 
+demand heatmaps using Matplotlib and Seaborn.
+
+---
+
+## Skills
+
+**Languages:** Python, SQL, HTML/CSS (basic)  
+**Data:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**BI Tools:** Power BI, Tableau, Plotly  
+**Database:** MySQL  
+**Tools:** Git, Jupyter Notebook, Excel  
+
+---
+
+## Education
+
+MCA —  (2025–2027)  
+BCA —  (2021–2024 )
+
+---
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/roshni-tiwari-354309282/) 
+| tiwariroshni620@gmail.com
+
+
 
