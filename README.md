@@ -35,14 +35,8 @@ EDA on Uber trip dataset — trip distribution, peak hours, demand heatmaps.
 
 ---
 
----
 
-## Education
 
-MCA —  (2025–2027)  
-BCA —  (2021–2024 )
-
----
 
 ---
 
