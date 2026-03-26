@@ -8,23 +8,20 @@ Currently pursuing MCA at Amity University
 
 ## Projects
 
-**[Liver Disease Prediction Model](link-here)**
-ML model using Random Forest & Logistic Regression on patient 
-medical data. Achieved 85% accuracy. Built with Python, 
-Scikit-learn, Pandas.
+**[Liver Disease Prediction Model](https://github.com/roshnitiwari1520/predicting-liver-diseases)**
+ML model using Random Forest & Logistic Regression on patient medical data. Achieved 85% accuracy.
 
-**[Amazon Customer Sentiment Analysis](link-here)**
-NLP-based sentiment classification on 100,000+ product reviews. 
-Identified top products by sentiment score using Python and 
-Scikit-learn.
+**[Amazon Customer Sentiment Analysis](https://github.com/roshnitiwari1520/Amazon-Customer-Data-Analysis)**
+NLP-based sentiment classification on 100,000+ product reviews.
 
-**[Sales Time Series Forecasting](link-here)**
-ARIMA model to forecast sales trends from historical data. 
-Validated with statistical evaluation metrics.
+**Sales Time Series Forecasting** *(repo coming soon)*
+ARIMA model to forecast sales trends from historical data.
 
-**[Uber Trip Data Analysis](link-here)**
-EDA on Uber trip dataset — trip distribution, peak hours, 
-demand heatmaps using Matplotlib and Seaborn.
+**Uber Trip Data Analysis** *(repo coming soon)*
+EDA on Uber trip dataset — trip distribution, peak hours, demand heatmaps.
+
+
+
 
 ---
 
@@ -37,38 +34,6 @@ demand heatmaps using Matplotlib and Seaborn.
 **Tools:** Git, Jupyter Notebook, Excel  
 
 ---
-
----
-
-## Projects
-
-**[Liver Disease Prediction Model](link-here)**
-ML model using Random Forest & Logistic Regression on patient 
-medical data. Achieved 85% accuracy. Built with Python, 
-Scikit-learn, Pandas.
-
-**[Amazon Customer Sentiment Analysis](link-here)**
-NLP-based sentiment classification on 100,000+ product reviews. 
-Identified top products by sentiment score using Python and 
-Scikit-learn.
-
-**[Sales Time Series Forecasting](link-here)**
-ARIMA model to forecast sales trends from historical data. 
-Validated with statistical evaluation metrics.
-
-**[Uber Trip Data Analysis](link-here)**
-EDA on Uber trip dataset — trip distribution, peak hours, 
-demand heatmaps using Matplotlib and Seaborn.
-
----
-
-## Skills
-
-**Languages:** Python, SQL, HTML/CSS (basic)  
-**Data:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-**BI Tools:** Power BI, Tableau, Plotly  
-**Database:** MySQL  
-**Tools:** Git, Jupyter Notebook, Excel  
 
 ---
 
