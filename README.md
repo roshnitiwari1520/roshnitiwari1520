@@ -33,8 +33,6 @@ EDA on Uber trip dataset — trip distribution, peak hours, demand heatmaps.
 **Database:** MySQL  
 **Tools:** Git, Jupyter Notebook, Excel  
 
----
-
 
 
 
